@@ -2,6 +2,7 @@
 Create a series of gemini API projects
 
 1. End-to-End LLM and Large Image Model Application
+
    To run this project:
    - i. cd End-to-End-LLM-based-chatbot
    - ii. For text-based inputs, do streamlit run app.py
